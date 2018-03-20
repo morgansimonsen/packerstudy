@@ -5,7 +5,7 @@
 *.zip
 
 # Exclude files containing credentials
-creds.*
+*creds.*
 
 # Exclude .NET assemblies from source
 *.dll
