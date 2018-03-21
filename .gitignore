@@ -5,7 +5,9 @@
 *.zip
 
 # Exclude files containing credentials
-*creds.*
+*creds*
+aws_creds.json
+azure_creds.json
 
 # Exclude .NET assemblies from source
 *.dll
